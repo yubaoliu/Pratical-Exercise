@@ -1,4 +1,4 @@
-from functions import *
+from common.functions import *
 
 class Relu:
     def __init__(self):
@@ -28,7 +28,7 @@ class Sigmoid:
 
 class Affine:
     def __init__(self, W, b):
-        slef.W = W
+        self.W = W
         self.b = b
         self.x = None
         self.dW = None
@@ -51,7 +51,7 @@ class SoftmaxWithLoss:
         self.y = None
         self.t = None
 
-    def forward(self, x t):
+    def forward(self, x, t):
         self.t =t
         self.y = softmax(x)
         self.loss = cross_entropy_error(self.y, self.t)
