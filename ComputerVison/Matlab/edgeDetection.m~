@@ -1,0 +1,20 @@
+%% Read Image
+img1 = imread('imgs/lena.jpg');
+img2 = imread('imgs/bicycle.png');
+% figure, imshow(img1);
+% imshow(img2);
+
+%% Edge detection
+% TODO: Find edges in frizzy and froomer images
+g_img1 = rgb2gray(img1);
+% imshow(g_img1);
+
+edge_img1  = edge(g_img1, 'canny');
+
+% TODO: Display common edge pixels
+figure, imshow(edge_img1);
+hold on
+figure imsho
+
+%% Display common edge pixels
+imshow(frizzy_edges & froomer_edges);
