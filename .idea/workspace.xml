@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa1d248e-11f0-402c-b835-c16e311ac4d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CS373-Artifical_Intelligence_for_Robotics/PracticeExame/WarehouseRobot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS373-Artifical_Intelligence_for_Robotics/RunawayRobot/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS373-Artifical_Intelligence_for_Robotics/RunawayRobot/matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS373-Artifical_Intelligence_for_Robotics/RunawayRobot/robot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/buy_apple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/buy_apple_orrange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/common/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/common/gradient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/common/layer_naive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/common/layers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/common/optimizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/lena.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/lena_gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/mnist.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/gradient_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/train_neuralnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deep-Learning-From-cratch/two_layer_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/and_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/not_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/perceptron.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/softmax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pratical-Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pratical-Exercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/buy_apple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/buy_apple_orrange.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/common/functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/common/gradient.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/common/layer_naive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/common/layers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/common/optimizer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/dataset/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/dataset/lena.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/dataset/lena_gray.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/dataset/mnist.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/dataset/mnist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/dataset/t10k-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/dataset/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/dataset/train-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/dataset/train-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/gradient_check.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/train_neuralnet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deep Learning From Scratch/two_layer_net.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/cross_entropy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/cross_entropy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,6 +67,7 @@
         <option value="$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/data.csv" />
         <option value="$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/perceptron.py" />
         <option value="$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/softmax.py" />
+        <option value="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/cross_entropy.py" />
       </list>
     </option>
   </component>
@@ -147,6 +109,11 @@
               <item name="Deep-Learning-From-cratch" type="462c0819:PsiDirectoryNode" />
               <item name="dataset" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Pratical-Exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pratical-Exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="Intro_to_Deep_Learning_with_PyTorch" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -172,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.softmax">
+  <component name="RunManager" selected="Python.cross_entropy">
     <configuration name="add_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pratical-Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cross_entropy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pratical-Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS373-Artifical_Intelligence_for_Robotics/RunawayRobot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS373-Artifical_Intelligence_for_Robotics/RunawayRobot/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/cross_entropy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cross_entropy" />
         <item itemvalue="Python.softmax" />
         <item itemvalue="Python.perceptron" />
         <item itemvalue="Python.not_test" />
         <item itemvalue="Python.add_test" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -324,6 +291,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1664" y="-4" width="1857" height="1205" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16593887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -520,20 +488,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/and_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/not_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/and_test.py" />
+    <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/not_test.py" />
     <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/solution.py" />
     <entry file="file://$USER_HOME$/.conda/envs/pytorch/lib/python3.7/site-packages/matplotlib/axes/_base.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -549,34 +505,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/softmax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/data.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/perceptron.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/softmax.py" />
+    <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/data.csv" />
+    <entry file="file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/perceptron.py" />
     <entry file="file://$PROJECT_DIR$/CS373-Artifical_Intelligence_for_Robotics/PracticeExame/WarehouseRobot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -605,6 +536,13 @@
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/cross_entropy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
