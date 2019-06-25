@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa1d248e-11f0-402c-b835-c16e311ac4d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/cross_entropy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/predict_student_admissions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/buy_apple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/buy_apple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/buy_apple_orrange.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/buy_apple_orrange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/common/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/common/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/common/gradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/common/gradient.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/common/layer_naive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/common/layer_naive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/common/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/common/layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/common/optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/common/optimizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/dataset/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/lena.png" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/dataset/lena.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/lena_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/dataset/lena_gray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/mnist.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/dataset/mnist.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/dataset/mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/t10k-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/dataset/t10k-images-idx3-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/t10k-labels-idx1-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/dataset/t10k-labels-idx1-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/train-images-idx3-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/dataset/train-images-idx3-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/dataset/train-labels-idx1-ubyte.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/dataset/train-labels-idx1-ubyte.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/gradient_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/gradient_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/train_neuralnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/train_neuralnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep-Learning-From-cratch/two_layer_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deep-Learning-From-scratch/two_layer_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.org" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +34,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/cross_entropy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/perceptron.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/gradient-descent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.org">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/predict_student_admissions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,14 +131,17 @@
         <option value="$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/perceptron.py" />
         <option value="$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/softmax.py" />
         <option value="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/cross_entropy.py" />
+        <option value="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/gradient-descent.py" />
+        <option value="$PROJECT_DIR$/README.org" />
+        <option value="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/predict_student_admissions.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1665" />
-    <option name="y" value="-4" />
-    <option name="width" value="1855" />
-    <option name="height" value="1204" />
+    <option name="x" value="1509" />
+    <option name="y" value="293" />
+    <option name="width" value="1853" />
+    <option name="height" value="1203" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -95,23 +161,6 @@
             <path>
               <item name="Pratical-Exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pratical-Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep-Learning-From-cratch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pratical-Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pratical-Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep-Learning-From-cratch" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pratical-Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pratical-Exercise" type="462c0819:PsiDirectoryNode" />
-              <item name="Deep-Learning-From-cratch" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Pratical-Exercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pratical-Exercise" type="462c0819:PsiDirectoryNode" />
               <item name="Intro_to_Deep_Learning_with_PyTorch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -124,7 +173,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SLAM/simple-sfm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyAPI/python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -139,28 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cross_entropy">
-    <configuration name="add_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Pratical-Exercise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/and_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.predict_student_admissions">
     <configuration name="cross_entropy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pratical-Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,6 +252,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="predict_student_admissions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pratical-Exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/predict_student_admissions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="softmax" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Pratical-Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,11 +317,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.predict_student_admissions" />
         <item itemvalue="Python.cross_entropy" />
         <item itemvalue="Python.softmax" />
         <item itemvalue="Python.perceptron" />
         <item itemvalue="Python.not_test" />
-        <item itemvalue="Python.add_test" />
       </list>
     </recent_temporary>
   </component>
@@ -291,14 +340,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1664" y="-4" width="1857" height="1205" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16593887" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19213974" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970026" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989083" weight="0.18256131" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989083" weight="0.15712988" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33242506" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,7 +370,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Deep-Learning-From-cratch/perceptron/perceptron.py</url>
+          <url>file://$PROJECT_DIR$/Deep-Learning-From-scratch/perceptron/perceptron.py</url>
           <line>78</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
@@ -541,8 +589,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/cross_entropy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/gradient-descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.org">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="18">
+            <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Intro_to_Deep_Learning_with_PyTorch/predict_student_admissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
